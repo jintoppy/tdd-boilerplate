@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jintoppy/tdd-boilerplate/issues"
   },
-  "homepage": "https://github.com/jintoppy/tdd-boilerplate"
+  "homepage": "https://github.com/jintoppy/tdd-boilerplate",
+  "devDependencies": {
+    "mocha": "^1.21.3"
+  }
 }
